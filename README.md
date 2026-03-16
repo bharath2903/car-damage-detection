@@ -107,7 +107,7 @@ Optuna's pruning and trial history were used to efficiently converge on the best
 
 ---
 
-## 📊 Results
+##  Results
 
 | Metric | Value |
 |--------|-------|
@@ -126,7 +126,7 @@ Optuna's pruning and trial history were used to efficiently converge on the best
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 1. **Transfer learning vs. training from scratch** — Transfer learning significantly outperformed a randomly initialized model, confirming that pretrained feature extractors provide a strong inductive bias even for domain-specific tasks.
 2. **Optuna-driven tuning** — Automated hyperparameter search with Optuna improved both validation accuracy and convergence stability versus manual tuning.
@@ -182,7 +182,7 @@ car-damage-detection/
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### 1. Start the FastAPI Server
 
