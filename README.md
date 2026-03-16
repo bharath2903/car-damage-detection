@@ -36,9 +36,9 @@ The model is deployed via two components — a **FastAPI backend** that serves t
 
 > 📌 The model expects **third-quarter front or rear view** images of the vehicle for best performance.
 
-![img_2.png](img_2.png)
+
 ---
-![img_3.png](img_3.png)
+
 ##  Dataset
 
 | Property | Details |
